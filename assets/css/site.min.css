@@ -234,14 +234,6 @@ a:focus {
   padding-left: 25px;
   padding-right: 25px;
 }
-#footer a {
-  color: #555;
-  border-bottom: dotted 1px #777;
-}
-#footer a:hover {
-  border-bottom: solid 1px #777;
-  text-decoration: none;
-}
 #footer .copy-right {
   height: 50px;
   line-height: 50px;
@@ -258,12 +250,15 @@ a:focus {
 }
 #footer a {
   color: #fff;
-  border-bottom: dotted 1px #a9dfbf;
+  border-bottom: dotted 1px transparent;
+  text-decoration: none;
 }
 #footer a:hover {
   color: #fff;
   border-bottom: solid 1px #fff;
+  text-decoration: none;
 }
+
 #footer .copy-right {
   background-color: rgba(51, 51, 51, 0.08);
 }
