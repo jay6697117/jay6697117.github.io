@@ -1,0 +1,20 @@
+{
+  "name": "jay6697117.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "katex": "^0.16.7",
+    "vant": "^4.0.9",
+    "vitepress": "^1.0.0-beta.5",
+    "vue": "^3.3.2"
+  }
+}
