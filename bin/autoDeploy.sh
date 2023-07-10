@@ -1,3 +1,4 @@
+pnpm i
 pnpm docs:build
 cd docs/.vitepress/dist
 
