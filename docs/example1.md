@@ -1,6 +1,7 @@
 ### Example1
 
 <hr/>
+<div>组件如下:</div>
 <latexDisplay> c = \pm\sqrt{a^2 + b^2} </latexDisplay>
 
 
