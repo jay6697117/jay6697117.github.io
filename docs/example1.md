@@ -1,7 +1,7 @@
 ### Example1
 
 <hr/>
-<div style="background:red">组件如下:</div>
+<div style="background:red;fong-size:50px;">组件如下:</div>
 <latexDisplay> c = \pm\sqrt{a^2 + b^2} </latexDisplay>
 
 
