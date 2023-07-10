@@ -6,6 +6,7 @@ git push -f
 
 
 pnpm docs:build
+cp .gitignore docs/.vitepress/dist
 cd docs/.vitepress/dist
 
 git init
