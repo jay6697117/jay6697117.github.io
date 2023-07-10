@@ -1,4 +1,4 @@
-pnpm docs:build
+call pnpm docs:build
 cd docs/.vitepress/dist
 
 git init
