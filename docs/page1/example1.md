@@ -6,5 +6,5 @@
 
 
 <script setup>
-import latexDisplay from '../components/latexDisplay.vue'
+import latexDisplay from '../../components/latexDisplay.vue'
 </script>
