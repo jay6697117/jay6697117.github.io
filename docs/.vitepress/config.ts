@@ -23,15 +23,6 @@ export default defineConfig({
             { text: 'API1', link: '/page1/api1' },
             { text: 'Example1', link: '/page1/example1' }
           ]
-        },
-        {
-          text: '页面2',
-          collapsed: false,
-          items: [
-            { text: '页面2导航', link: '/page2/' },
-            { text: 'API2', link: '/page2/api2' },
-            { text: 'Example2', link: '/page2/example2' }
-          ]
         }
       ],
       '/page2/': [
@@ -42,15 +33,6 @@ export default defineConfig({
             { text: '页面2导航', link: '/page2/' },
             { text: 'API2', link: '/page2/api2' },
             { text: 'Example2', link: '/page2/example2' }
-          ]
-        },
-        {
-          text: '页面1',
-          collapsed: false,
-          items: [
-            { text: '页面1导航', link: '/page1/' },
-            { text: 'API1', link: '/page1/api1' },
-            { text: 'Example1', link: '/page1/example1' }
           ]
         }
       ]

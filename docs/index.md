@@ -3,22 +3,28 @@
 layout: home
 
 hero:
-  name: "我是张金辉"
-  text: "张金辉的博客站点哈哈哈哈"
+  name: '我是张金辉'
+  text: '张金辉的博客站点哈哈哈哈'
   tagline: a beautiful life...
   actions:
+    # - theme: brand
+    #   text: API1
+    #   link: /page1/api1
+    # - theme: alt
+    #   text: Example1
+    #   link: /page1/example1
+    # - theme: brand
+    #   text: API2
+    #   link: /page2/api2
+    # - theme: alt
+    #   text: Example2
+    #   link: /page2/example2
     - theme: brand
-      text: API1
-      link: /api1
-    - theme: alt
-      text: Example1
-      link: /example1
+      text: page1
+      link: /page1/
     - theme: brand
-      text: API2
-      link: /api2
-    - theme: alt
-      text: Example2
-      link: /example2
+      text: page2
+      link: /page2/
 
 features:
   - title: Feature A
